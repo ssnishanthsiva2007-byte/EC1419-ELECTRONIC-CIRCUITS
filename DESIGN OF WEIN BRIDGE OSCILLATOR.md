@@ -17,7 +17,7 @@
 ![WhatsApp Image 2026-03-26 at 10 45 42](https://github.com/user-attachments/assets/3ad9a4d3-1c06-43be-9482-b11a534d8fb3)
 
 ## Graph
-![WhatsApp Image 2026-03-26 at 11 36 43](https://github.com/user-attachments/assets/f73a5dd2-4d40-4a2f-92cc-398e9f3fdfef)
+![WhatsApp Image 2026-03-26 at 11 39 05](https://github.com/user-attachments/assets/29489576-7215-451a-a02b-eca7150db5af)
 ![WhatsApp Image 2026-03-26 at 11 30 14](https://github.com/user-attachments/assets/5d2457a6-1964-4079-aaa0-c7e6adc25aa2)
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
