@@ -23,5 +23,4 @@
 
 Practical frequency of Oscillation = 159Hz
 
-
 Theoritical Frequency of Oscillation = 100.148Hz
