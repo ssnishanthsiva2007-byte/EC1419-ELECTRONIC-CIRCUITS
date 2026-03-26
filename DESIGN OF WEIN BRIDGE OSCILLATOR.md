@@ -17,8 +17,8 @@
 ![WhatsApp Image 2026-03-26 at 10 45 42](https://github.com/user-attachments/assets/3ad9a4d3-1c06-43be-9482-b11a534d8fb3)
 
 ## Graph
-![WhatsApp Image 2026-03-26 at 10 42 59](https://github.com/user-attachments/assets/9900775d-e797-456b-86fb-ab01a8a824ab)
-
+![WhatsApp Image 2026-03-26 at 11 36 43](https://github.com/user-attachments/assets/f73a5dd2-4d40-4a2f-92cc-398e9f3fdfef)
+![WhatsApp Image 2026-03-26 at 11 30 14](https://github.com/user-attachments/assets/5d2457a6-1964-4079-aaa0-c7e6adc25aa2)
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
 Practical frequency of Oscillation = 159Hz
