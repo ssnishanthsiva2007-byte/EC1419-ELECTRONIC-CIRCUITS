@@ -12,10 +12,12 @@
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
-
 ## Tabulation
+![WhatsApp Image 2026-03-26 at 10 44 19](https://github.com/user-attachments/assets/a02f1c86-7a9d-4a64-9b25-9d4a18bfad6c)
+![WhatsApp Image 2026-03-26 at 10 45 42](https://github.com/user-attachments/assets/3ad9a4d3-1c06-43be-9482-b11a534d8fb3)
 
 ## Graph
+![WhatsApp Image 2026-03-26 at 10 42 59](https://github.com/user-attachments/assets/9900775d-e797-456b-86fb-ab01a8a824ab)
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
