@@ -6,9 +6,8 @@
 <img width="760" height="462" alt="image" src="https://github.com/user-attachments/assets/eeff6a23-1fb7-494b-a99d-c05b574526f8" />
 <img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
 
-
 # Tabulation with readings
-
+![WhatsApp Image 2026-03-26 at 11 14 19](https://github.com/user-attachments/assets/b40e780e-a6f3-4cc4-90ea-ff0407c338c2)
 ## Semilog plotted Graph
-
+![WhatsApp Image 2026-03-26 at 11 16 46](https://github.com/user-attachments/assets/75ebeebd-6222-4c6e-8be7-dc8edd1659e4)
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
